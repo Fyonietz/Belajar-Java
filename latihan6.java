@@ -7,5 +7,5 @@ public class latihan6 {
         String msg="Hai "+nama;
       
         JOptionPane.showMessageDialog(null, msg);
-     }
+     }  
 }
